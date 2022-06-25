@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.3745" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2785" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_picture_empty.xml" value="0.3745" />
+        <entry key="app/src/main/res/font/quicksand_bold.xml" value="0.3685185185185185" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2943722943722944" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.428125" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.5497678021847945" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.37315521240234373" />
+        <entry key="app/src/main/res/layout/list_item_food.xml" value="0.517814726840855" />
+        <entry key="app/src/main/res/layout/list_item_horizontal_food.xml" value="0.43426666259765623" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2785" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2785" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

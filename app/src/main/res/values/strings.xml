@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFood</string>
+    <string name="my_name">Muhammad Riduwan</string>
+    <string name="my_email">rolilaz47@gmail.com</string>
+    <string name="description">Deskripsi:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="rating">Rating:</string>
+    <string name="taste">Rasa:</string>
+    <string name="typical_food">Makanan Khas:</string>
+</resources>
